@@ -1,5 +1,6 @@
 const request = require('supertest');
 const app = require('../lib/app');
+jest.mock('../lib/services/getCharacter');
 
 describe('app routes', () => {
   it('responds to the birthday route ', () => {
