@@ -4,12 +4,12 @@
   `lib/models` and `test/models` -->
 
 ## people
-
+<!-- 
 * create a people rest API
-* use simple-database to save people
-* a person has name, age, and favorite color
-* `POST /people` creates a new person and sends
-  back json
+* use simple-database to save people -->
+<!-- * a person has name, age, and favorite color -->
+<!-- * `POST /people` creates a new person and sends
+  back json -->
 * `GET /people` returns a list of people
 * `GET /people/:id` returns a person with :id
 * `PUT /people/:id` updates a person with :id
