@@ -1,7 +1,7 @@
 # HTTP Routing
-
+<!-- 
 * Copy over your simple-database files into
-  `lib/models` and `test/models`
+  `lib/models` and `test/models` -->
 
 ## people
 
